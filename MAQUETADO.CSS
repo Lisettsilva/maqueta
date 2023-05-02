@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+  }
+ 
+
+  .contenedor{
+    margin: 10px;
+        height: 600px;  /* altura */
+        width: 1000px;
+        background-color: black;
+        border: 10px solid aquamarine;
+        display: flex;
+        display: block;
+        text-align: center;
+        justify-content: center;
+            
+
+  }
+  /* caja 1 */
+  .red {
+    background-color: red; 
+    margin: 1%;
+    height: 200px;
+    width: 650px;
+   float: left;
+        
+  } 
+
+  .blueviolet { 
+    background-color: blueviolet; 
+    margin: 1%;
+    height: 200px;
+    width: 300px;
+    float: left
+  }
+   
+  .blue {
+  background-color: blue;
+    margin: 1%;
+    height: 350px;
+    width: 300px;
+    float: left
+}  
+  
+   
+  .green {
+    background-color: green;
+    margin: 1%;
+    height: 164px;
+    width: 650px;
+    float: left
+  }
+  .yellow {
+    background-color: yellow;
+    margin: 1%;
+    height: 164px;
+    width: 315px;
+    float: left}
+    
+  .black {
+    background-color: ghostwhite;
+    color: black;
+    margin: 1%;
+    height: 164px;
+    width: 315px;
+    float: left
+
+  }
+  
+
+
